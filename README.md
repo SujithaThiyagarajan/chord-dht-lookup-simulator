@@ -101,3 +101,17 @@ streamlit run app.py
 This project demonstrates how the Chord protocol efficiently performs key lookups in distributed systems using finger tables. It reduces lookup complexity from O(N) to O(log N), improving scalability.
 
 ---
+
+<img width="940" height="328" alt="image" src="https://github.com/user-attachments/assets/dc544fea-c18f-41b5-894a-320de06ac187" />
+
+<img width="940" height="690" alt="image" src="https://github.com/user-attachments/assets/9a79ddb6-aa99-4346-84ed-4f864ef0100e" />
+
+<img width="940" height="295" alt="image" src="https://github.com/user-attachments/assets/cbc5d6c7-630e-45d3-a968-202566b05c09" />
+
+<img width="940" height="686" alt="image" src="https://github.com/user-attachments/assets/b70147a9-8556-4090-8ea4-279f78df4f65" />
+
+<img width="940" height="448" alt="image" src="https://github.com/user-attachments/assets/8f22c24a-1b97-4ee3-ba54-87f36a56a874" />
+
+
+
+
